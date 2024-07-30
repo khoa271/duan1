@@ -1,0 +1,1 @@
+INSERT INTO `product`(`id`, `category_id`, `title`, `price`, `discount`, `img`, `description`, `created_at`, `updated_at`, `deleted`) VALUES ('1','2','Áo phông','500$','450$','computer-img','Áo thun mát mẻ','2024-07-30','2024-07-30','0')
